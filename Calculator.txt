@@ -1,0 +1,31 @@
+#include<stdio.h>
+int main()
+{
+	float num1,num2,res;
+	printf("Enter the number");
+	scanf("%f%f",&num1,&num2);
+	printf("Choose from menu\n 1Add\n 2Subtract\n 3Multiply\n 4Divide\n");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		Case 1:
+		res=num1+num2;
+		printf("Result is %f",res);
+		break;
+		Case 2:
+		res=num1-num2;
+		printf("Result is %f",res);
+		break;
+		Case3:
+		res=num1*num2;
+		printf("Result is %f",res);
+		break;
+		Case4:
+		res=num1/num2;
+		printf("Result is %f",res);
+		break;
+		default:
+		printf("Enter teh choice");
+	}
+}
+	
