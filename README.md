@@ -8,6 +8,8 @@ Five programmes added and they are mentioned as follows:
 
 3.Find the factorial of a number
 
-4.Identify if a character is a vowel or a consonant
+4.Identify if a number is an armstrong
 
-5.Find the largest number bewtween three numbers
+5.Identify if a character is a vowel or a consonant
+
+6.Find the largest number bewtween three numbers
