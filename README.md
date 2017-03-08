@@ -6,8 +6,6 @@ Four programmes added and they are mentioned as follows:
 
 2.Find the factorial of a number
 
-3.Generate fibbonacci series
+3.Identify if a character is a vowel or a consonant
 
-4.Identify if a character is a vowel or a consonant
-
-5.Find the largest number bewtween three numbers
+4.Find the largest number bewtween three numbers
