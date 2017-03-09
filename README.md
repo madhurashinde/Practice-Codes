@@ -19,6 +19,9 @@ Six programmes added and they are mentioned as follows:
 8.Generate the foloowing pattern:
 
 *
+
 * *
+
 * * *
+
 * * * *
