@@ -15,3 +15,10 @@ Six programmes added and they are mentioned as follows:
 6.Identify if a character is a vowel or a consonant
 
 7.Find the largest number between three numbers
+
+8.Generate the foloowing pattern:
+
+*
+* *
+* * *
+* * * *
