@@ -16,12 +16,6 @@ Six programmes added and they are mentioned as follows:
 
 7.Find the largest number between three numbers
 
-8.Generate the foloowing pattern:
+8.Generate different patterns:
 
-*
 
-* *
-
-* * *
-
-* * * *
