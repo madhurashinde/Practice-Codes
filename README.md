@@ -1,6 +1,6 @@
 # Practice-Code
 
-Six programmes added and they are mentioned as follows:
+Nine programmes added and they are mentioned as follows:
 
 1.Calculator-Add, Subtract, Multiply, Divide
 
