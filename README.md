@@ -18,7 +18,7 @@ Twelve programmes are added and they are mentioned as follows:
 
 8.Generate different patterns:
 
-Four programmes of different patterns of * are uploaded
+Four programmes of different patterns of * are added
 
 9.Find power of any number
 
