@@ -1,6 +1,6 @@
 # Practice-Code
 
-Nine programmes added and they are mentioned as follows:
+Twelve programmes are added and they are mentioned as follows:
 
 1.Calculator-Add, Subtract, Multiply, Divide
 
@@ -17,5 +17,9 @@ Nine programmes added and they are mentioned as follows:
 7.Find the largest number between three numbers
 
 8.Generate different patterns:
+
+Four programmes of different patterns of * are uploaded
+
+9.Find power of any number
 
 
