@@ -2,7 +2,7 @@
 
 Twelve programmes are added and they are mentioned as follows:
 
-1.Find a matrix which is addition of two other matrix
+1.Find a matrix which is addition of two other matrices
 
 2.Calculator-Add, Subtract, Multiply, Divide
 
