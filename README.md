@@ -24,4 +24,6 @@ Four programmes of different patterns of * are added
 
 10.Find power of any number
 
+11.Find transpose of a matrix
+
 
